@@ -62,6 +62,9 @@
 - Bump Cocoa SDK (iOS) from v8.9.6 to v8.10.0 ([#355](https://github.com/getsentry/sentry-unreal/pull/355))
   - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8100)
   - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.9.6...8.10.0)
+- Bump Cocoa SDK (iOS) from v8.10.0 to v8.22.4 ([#190](https://github.com/Edstub207/sentry-unreal/pull/190))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8224)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.10.0...8.22.4)
 
 ## 0.8.0
 
